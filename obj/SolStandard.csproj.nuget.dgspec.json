@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\IPCA\\Tecnicas de Desenvolvimento de VideoJogos\\Sol Standard\\solstandard-develop\\SolStandard\\SolStandard.csproj": {}
+  },
+  "projects": {
+    "D:\\IPCA\\Tecnicas de Desenvolvimento de VideoJogos\\Sol Standard\\solstandard-develop\\SolStandard\\SolStandard.csproj": {
+      "version": "1.2.0",
+      "restore": {
+        "projectUniqueName": "D:\\IPCA\\Tecnicas de Desenvolvimento de VideoJogos\\Sol Standard\\solstandard-develop\\SolStandard\\SolStandard.csproj",
+        "projectName": "SolStandard",
+        "projectPath": "D:\\IPCA\\Tecnicas de Desenvolvimento de VideoJogos\\Sol Standard\\solstandard-develop\\SolStandard\\SolStandard.csproj",
+        "packagesPath": "C:\\Users\\cruzm\\.nuget\\packages\\",
+        "outputPath": "D:\\IPCA\\Tecnicas de Desenvolvimento de VideoJogos\\Sol Standard\\solstandard-develop\\SolStandard\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cruzm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "dependencies": {
+            "Lidgren.Network": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "MonoGame.Aseprite": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "MonoGame.Content.Builder": {
+              "target": "Package",
+              "version": "[3.7.0.9, )"
+            },
+            "MonoGame.Extended": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Animations": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Collisions": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Content.Pipeline": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Entities": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Graphics": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Gui": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Input": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.Particles": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Extended.SceneGraphs": {
+              "target": "Package",
+              "version": "[3.7.0, )"
+            },
+            "MonoGame.Framework.DesktopGL.Core": {
+              "target": "Package",
+              "version": "[3.7.0.7, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.6.8, )"
+            },
+            "OptimizedPriorityQueue": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "TextCopy": {
+              "target": "Package",
+              "version": "[1.7.1, )"
+            },
+            "TiledSharp": {
+              "target": "Package",
+              "version": "[0.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
